@@ -35,6 +35,12 @@
         "videos",
         "audios"
       ]
+    },
+    "meta": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
     }
   }
 }
